@@ -19,22 +19,22 @@
 <body>
 	<div>
 		<?php
-			echo "Olá Mundo!";
+			echo "1.Olá Mundo!";
 		?>
 	</div>
 		<div>
 		<?php
-			echo "Olá Mundo!";
+			echo "2.Olá Mundo!";
 		?>
 	</div>
 		<div>
 		<?php
-			echo "Olá Mundo!";
+			echo "3.Olá Mundo!";
 		?>
 	</div>
 		<div>
 		<?php
-			echo "Olá Mundo!";
+			echo "4.Olá Mundo!";
 		?>
 	</div>
 </body>
