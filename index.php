@@ -7,7 +7,7 @@
 			width: 200px;
 			height: 50px;
 			margin: 0 auto;
-			background-color: rgba(0,255,0,0.7);
+			background-color: rgb(255,0,0);
 			border: 2px solid black;
 			border-radius: 5px;
 			color: black;
